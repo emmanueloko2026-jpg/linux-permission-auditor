@@ -28,7 +28,10 @@ def permission_to_octal(perm_string):
 	return final_value
 
 
-
-
 print(permission_to_octal("rwxr-xr--"))
 print(permission_to_octal("rwxr-xrwx"))
+
+
+
+
+
